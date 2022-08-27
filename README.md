@@ -71,7 +71,7 @@ This project was built with the following technologies:
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I would like to thank everyone in my team during SAIT.
+I would like to thank everyone in my team at SAIT for their contributions, incredibly rewarding experience.
 
 * Ivan Lavena (Designer)
 * Lucky Marc Gumboc (Database)
