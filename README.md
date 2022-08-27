@@ -5,9 +5,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ibrahimelement/JAVA_SpringBoot_SAAS">
-    <img src="images/dashboard.png" alt="Logo" width="1000" height="500">
-  </a>
 
   <h3 align="center">Java SaaS Project</h3>
 
