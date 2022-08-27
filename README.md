@@ -6,26 +6,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibrahimelement/JAVA_SpringBoot_SAAS">
-    <img src="images/dashboard.png" alt="Logo" width="400" height="400">
+    <img src="images/dashboard.png" alt="Logo" width="1000" height="500">
   </a>
 
   <h3 align="center">Java SaaS Project</h3>
 
   <p align="center">
     Building a beautiful and responsive SaaS application using Java, Spring Boot, SQL, and Thymeleaf (Server-Side Rendering Agent).
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+    
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
   <a href="https://github.com/ibrahimelement/JAVA_SpringBoot_SAAS">
-    <img src="images/mobile_responsive.png" alt="Logo" width="400" height="400">
+    <img src="images/mobile_responsive.png" alt="Logo" width="1000" height="500">
   </a>
 
 This project was developed in collaboration with several other members during my time at SAIT College. Working for a client based in Calgary, we developed a SaaS application that facilitates exchanging digital assets while also providing support and administrative functionalities to keep the application running.
@@ -52,7 +48,7 @@ This project was built with the following technologies:
 * ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
   <a href="https://github.com/ibrahimelement/JAVA_SpringBoot_SAAS">
-    <img src="images/system_structure.png" alt="Logo" width="400" height="400">
+    <img src="images/system_structure.png" alt="Logo"  width="1000" height="500">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
